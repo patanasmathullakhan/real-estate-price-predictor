@@ -51,12 +51,22 @@ real_estate_price_predictor/
 
 ---
 
-## ⚙️ How to Run Locally
 
-1. **Clone the Repository**
-```bash
-git clone https://github.com/yourusername/real-estate-price-predictor.git
-cd real-estate-price-predictor
+## 🎯 Project Overview
+
+This app predicts real estate prices based on user input.
+
+---
+
+## 🖼️ Preview
+
+### 🧾 Input Form
+![Form](static/image.png)
+
+### 📈 Prediction Output
+<p align="center">
+  <img src="static/prediction_output.png" width= "500"/>
+</p>
 """
 
 🏷️ Tags
